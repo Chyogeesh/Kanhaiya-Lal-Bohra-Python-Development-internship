@@ -1,0 +1,20 @@
+django-intern-assignment/
+├── django_intern/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+├── app/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── serializers.py
+│   ├── views.py
+│   ├── urls.py
+│   ├── tasks.py
+│   └── telegram_bot.py
+├── manage.py
+├── requirements.txt
+├── .env
+├── README.md
